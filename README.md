@@ -9,11 +9,11 @@
 - *dark and ligth mode*
 
 #### Packages
--Bloc State management
--Conditional Builder
--Dio
--Shared Preferences
--WebView
+- Bloc State management
+- Conditional Builder
+- Dio
+- Shared Preferences
+- WebView
 
 #### Demo
 https://user-images.githubusercontent.com/93555101/157115815-78af0dfe-933e-47ab-9368-89ef1ffd7aa1.mp4
